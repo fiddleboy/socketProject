@@ -25,3 +25,6 @@
 * All players share a **fixed** number of chances for wrong guesses. (You can change this number in gameplay.h, line 7)
 * The game either ends when all guesses runs out **or** one player input the correct final letter of the word.
 * Enjoy!
+
+**Additionals:**
+* If you run the server code on one machine, and you can also be a player to access this game on another machine that connected to the same newtwork as the one opened with server. By using this command: `nc -c anotherMachineIPaddress 52949`
