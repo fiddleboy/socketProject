@@ -27,4 +27,5 @@
 * Enjoy!
 
 **Additionals:**
-* If you run the server code on one machine, and you can also be a player to access this game on another machine that connected to the same newtwork as the one opened with server. By using this command: `nc -c anotherMachineIPaddress 52949`
+* If you run the server code on one machine, and you can also be a player to access this game on another machine that connected to the same newtwork as the one opened with server. 
+By using this command: `nc -c anotherMachineIPaddress 52949`
